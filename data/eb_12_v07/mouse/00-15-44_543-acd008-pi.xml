@@ -1,0 +1,40 @@
+<annotation>
+	<folder>mouse</folder>
+	<filename>00-15-44_543-acd008-pi.jpg</filename>
+	<path>D:\animals-count\data\eb_12_v07\(pending)\mouse\00-15-44_543-acd008-pi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<attributes>
+		<attribute key="quality">ok</attribute>
+		<attribute key="light">None</attribute>
+		<attribute key="weather">None</attribute>
+	</attributes>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<attributes>
+			<attribute key="aspect">front right</attribute>
+			<attribute key="quality">ok</attribute>
+			<attribute key="cardinality"/>
+			<attribute key="box-score"/>
+			<attribute key="class-error"/>
+			<attribute key="class-error-score"/>
+		</attributes>
+		<score>0.18057346</score>
+		<bndbox>
+			<xmin>736</xmin>
+			<ymin>673</ymin>
+			<xmax>918</xmax>
+			<ymax>808</ymax>
+		</bndbox>
+	</object>
+</annotation>

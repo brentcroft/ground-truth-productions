@@ -1,0 +1,37 @@
+<annotation>
+  <folder>2018-06-10</folder>
+  <filename>05-32-45_821-acd007-pi.jpg</filename>
+  <path>X:\nutsack\CAM-01\2018-06-10\05-32-45_821-acd007-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>robin</name>
+    <score>0.7964596</score>
+    <bndbox>
+      <xmin>900</xmin>
+      <ymin>198</ymin>
+      <xmax>1072</xmax>
+      <ymax>313</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">left</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">81</attribute>
+      <attribute key="class-error">dunnock(0.11)</attribute>
+      <attribute key="class-error-score">0.11149824</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="duplicate">no</attribute>
+    <attribute key="quality">ok</attribute>
+    <attribute key="full-screen">no</attribute>
+    <attribute key="weather">cloudy</attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

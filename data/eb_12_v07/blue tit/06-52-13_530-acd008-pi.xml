@@ -1,0 +1,37 @@
+<annotation>
+  <folder>2018-06-09</folder>
+  <filename>06-52-13_530-acd008-pi.jpg</filename>
+  <path>X:\nutsack\CAM-02\2018-06-09\06-52-13_530-acd008-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1072</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <score>0.843181</score>
+    <bndbox>
+      <xmin>1193</xmin>
+      <ymin>140</ymin>
+      <xmax>1320</xmax>
+      <ymax>307</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">rear</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">93</attribute>
+      <attribute key="class-error">great tit(0.27)</attribute>
+      <attribute key="class-error-score">0.2689598</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="full-screen">no</attribute>
+    <attribute key="weather">cloudy</attribute>
+    <attribute key="duplicate">no</attribute>
+    <attribute key="quality">ok</attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

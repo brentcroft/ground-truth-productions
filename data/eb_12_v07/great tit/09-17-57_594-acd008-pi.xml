@@ -1,0 +1,36 @@
+<annotation>
+  <folder>2018-12-28</folder>
+  <filename>09-17-57_594-acd008-pi.jpg</filename>
+  <path>X:\animals-count\CAM-02\2018-12-28\09-17-57_594-acd008-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>great tit</name>
+    <score>0.9184456</score>
+    <bndbox>
+      <xmin>992</xmin>
+      <ymin>503</ymin>
+      <xmax>1148</xmax>
+      <ymax>698</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">front left</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">93</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="quality">ok</attribute>
+    <attribute key="light"></attribute>
+    <attribute key="weather"></attribute>
+    <attribute key="untruth"></attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

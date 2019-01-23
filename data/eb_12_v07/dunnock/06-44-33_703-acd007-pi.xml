@@ -1,0 +1,37 @@
+<annotation>
+  <folder>sparrow</folder>
+  <filename>06-44-33_703-acd007-pi.jpg</filename>
+  <path>D:\animals-count-data\ground-truth-data\estuarybank_12_v03\sparrow\06-44-33_703-acd007-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1072</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <score>0.88864404</score>
+    <bndbox>
+      <xmin>771</xmin>
+      <ymin>414</ymin>
+      <xmax>1041</xmax>
+      <ymax>569</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">front left</attribute>
+      <attribute key="quality">poor</attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">92</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="full-screen"></attribute>
+    <attribute key="quality"></attribute>
+    <attribute key="weather">twilight</attribute>
+    <attribute key="duplicate"></attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

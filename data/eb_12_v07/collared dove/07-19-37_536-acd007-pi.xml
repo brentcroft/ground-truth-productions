@@ -1,0 +1,37 @@
+<annotation>
+  <folder>2018-06-18</folder>
+  <filename>07-19-37_536-acd007-pi.jpg</filename>
+  <path>X:\nutsack\CAM-02\2018-06-18\07-19-37_536-acd007-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1072</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>collared dove</name>
+    <score>0.796923</score>
+    <bndbox>
+      <xmin>772</xmin>
+      <ymin>376</ymin>
+      <xmax>1029</xmax>
+      <ymax>875</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">rear</attribute>
+      <attribute key="quality">poor</attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">98</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="full-screen"></attribute>
+    <attribute key="quality"></attribute>
+    <attribute key="weather">twilight</attribute>
+    <attribute key="duplicate"></attribute>
+    <attribute key="untruth"></attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

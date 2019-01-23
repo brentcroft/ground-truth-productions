@@ -1,0 +1,36 @@
+<annotation>
+  <folder>2019-01-01</folder>
+  <filename>10-51-46_004-acd010-pi.jpg</filename>
+  <path>X:\animals-count\CAM-03\2019-01-01\10-51-46_004-acd010-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blackbird</name>
+    <score>0.88682395</score>
+    <bndbox>
+      <xmin>495</xmin>
+      <ymin>807</ymin>
+      <xmax>775</xmax>
+      <ymax>935</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">right</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">93</attribute>
+      <attribute key="class-error">collared dove(0.12)</attribute>
+      <attribute key="class-error-score">0.12026893</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="quality">ok</attribute>
+    <attribute key="light"></attribute>
+    <attribute key="weather"></attribute>
+    <attribute key="untruth"></attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

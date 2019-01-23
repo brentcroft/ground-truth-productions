@@ -1,0 +1,37 @@
+<annotation>
+  <folder>2018-06-23</folder>
+  <filename>07-48-37_474-acd008-pi.jpg</filename>
+  <path>X:\nutsack\CAM-02\2018-06-23\07-48-37_474-acd008-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1072</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>wood pigeon</name>
+    <score>0.908431</score>
+    <bndbox>
+      <xmin>200</xmin>
+      <ymin>134</ymin>
+      <xmax>876</xmax>
+      <ymax>761</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">front left</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">96</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="full-screen">no</attribute>
+    <attribute key="quality">ok</attribute>
+    <attribute key="weather">cloudy</attribute>
+    <attribute key="duplicate">no</attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

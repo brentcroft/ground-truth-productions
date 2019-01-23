@@ -1,0 +1,56 @@
+<annotation>
+  <folder>blackbird</folder>
+  <filename>15-42-12_027-acd008-pi.jpg</filename>
+  <path>X:\nutsack\ground-truth-data\nutsack_11_v8\blackbird\15-42-12_027-acd008-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1072</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blackbird</name>
+    <score>0.887755</score>
+    <bndbox>
+      <xmin>749</xmin>
+      <ymin>598</ymin>
+      <xmax>925</xmax>
+      <ymax>819</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">front</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">-2</attribute>
+      <attribute key="box-score">100</attribute>
+      <attribute key="class-error">dunnock(0.49), goldfinch(0.10), robin(0.10)</attribute>
+      <attribute key="class-error-score">0.22972367533333335</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <score>0.5110498</score>
+    <bndbox>
+      <xmin>913</xmin>
+      <ymin>451</ymin>
+      <xmax>992</xmax>
+      <ymax>527</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">front</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">-2</attribute>
+      <attribute key="box-score">100</attribute>
+      <attribute key="class-error">dunnock(0.49), goldfinch(0.10), robin(0.10)</attribute>
+      <attribute key="class-error-score">0.22972367533333335</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="duplicate"></attribute>
+    <attribute key="quality">ok</attribute>
+    <attribute key="weather">bright</attribute>
+    <attribute key="test">test</attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

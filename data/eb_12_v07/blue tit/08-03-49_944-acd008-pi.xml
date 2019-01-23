@@ -1,0 +1,36 @@
+<annotation>
+  <folder>blue tit</folder>
+  <filename>08-03-49_944-acd008-pi.jpg</filename>
+  <path>D:\animals-count\data\estuarybank_12_v06\(pending)\blue tit\08-03-49_944-acd008-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1072</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <score>0.9053883</score>
+    <bndbox>
+      <xmin>1183</xmin>
+      <ymin>766</ymin>
+      <xmax>1327</xmax>
+      <ymax>1011</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">rear</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">99</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="quality">ok</attribute>
+    <attribute key="light"></attribute>
+    <attribute key="weather"></attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

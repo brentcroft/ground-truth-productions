@@ -1,0 +1,56 @@
+<annotation>
+  <folder>long tailed tit</folder>
+  <filename>08-58-58-acd004-pi.jpg</filename>
+  <path>X:\nutsack\ground-truth-data\nutsack_9_v6\long tailed tit\08-58-58-acd004-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>long tailed tit</name>
+    <score>0.7592083</score>
+    <bndbox>
+      <xmin>503</xmin>
+      <ymin>492</ymin>
+      <xmax>633</xmax>
+      <ymax>742</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">front left</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">95</attribute>
+      <attribute key="class-error">great tit(0.11)</attribute>
+      <attribute key="class-error-score">0.10576261</attribute>
+      <attribute key="class-score">0.100686066</attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <score>0.81774247</score>
+    <bndbox>
+      <xmin>1282</xmin>
+      <ymin>676</ymin>
+      <xmax>1438</xmax>
+      <ymax>783</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">front left</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">95</attribute>
+      <attribute key="class-error">great tit(0.11)</attribute>
+      <attribute key="class-error-score">0.10576261</attribute>
+      <attribute key="class-score">0.100686066</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="quality">ok</attribute>
+    <attribute key="weather">bright</attribute>
+    <attribute key="duplicate"></attribute>
+    <attribute key="test">test</attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

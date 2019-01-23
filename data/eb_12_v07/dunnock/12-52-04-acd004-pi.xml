@@ -1,0 +1,36 @@
+<annotation>
+  <folder>2018-12-07</folder>
+  <filename>12-52-04-acd004-pi.jpg</filename>
+  <path>X:\animals-count\CAM-01\2018-12-07\12-52-04-acd004-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <score>0.93401486</score>
+    <bndbox>
+      <xmin>882</xmin>
+      <ymin>269</ymin>
+      <xmax>1015</xmax>
+      <ymax>437</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">front</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">93</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="quality">ok</attribute>
+    <attribute key="light"></attribute>
+    <attribute key="weather"></attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

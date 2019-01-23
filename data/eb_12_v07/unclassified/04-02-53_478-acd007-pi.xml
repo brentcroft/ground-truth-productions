@@ -1,0 +1,151 @@
+<annotation>
+  <folder>2018-06-10</folder>
+  <filename>04-02-53_478-acd007-pi.jpg</filename>
+  <path>X:\nutsack\CAM-01\2018-06-10\04-02-53_478-acd007-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>unclassified</name>
+    <score>0</score>
+    <bndbox>
+      <xmin>1358</xmin>
+      <ymin>683</ymin>
+      <xmax>1531</xmax>
+      <ymax>921</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect"></attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">0</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>unclassified</name>
+    <score>0</score>
+    <bndbox>
+      <xmin>233</xmin>
+      <ymin>1</ymin>
+      <xmax>507</xmax>
+      <ymax>220</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect"></attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">0</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>unclassified</name>
+    <score>0</score>
+    <bndbox>
+      <xmin>487</xmin>
+      <ymin>693</ymin>
+      <xmax>629</xmax>
+      <ymax>858</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect"></attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">0</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>unclassified</name>
+    <score>0</score>
+    <bndbox>
+      <xmin>234</xmin>
+      <ymin>615</ymin>
+      <xmax>494</xmax>
+      <ymax>886</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect"></attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">0</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>unclassified</name>
+    <score>0</score>
+    <bndbox>
+      <xmin>928</xmin>
+      <ymin>340</ymin>
+      <xmax>1580</xmax>
+      <ymax>514</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect"></attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">0</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>unclassified</name>
+    <score>0</score>
+    <bndbox>
+      <xmin>1754</xmin>
+      <ymin>20</ymin>
+      <xmax>1904</xmax>
+      <ymax>387</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect"></attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">0</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>unclassified</name>
+    <score>0</score>
+    <bndbox>
+      <xmin>919</xmin>
+      <ymin>342</ymin>
+      <xmax>1560</xmax>
+      <ymax>539</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect"></attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">0</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="duplicate">no</attribute>
+    <attribute key="quality">ok</attribute>
+    <attribute key="full-screen">no</attribute>
+    <attribute key="weather">cloudy</attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

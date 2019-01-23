@@ -1,0 +1,37 @@
+<annotation>
+  <folder>2018-09-04</folder>
+  <filename>09-41-01_851-acd008-pi.jpg</filename>
+  <path>X:\animals-count\CAM-02\2018-09-04\09-41-01_851-acd008-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1072</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>robin</name>
+    <score>0.9594651</score>
+    <bndbox>
+      <xmin>559</xmin>
+      <ymin>777</ymin>
+      <xmax>777</xmax>
+      <ymax>968</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">left</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">97</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="full-screen">no</attribute>
+    <attribute key="quality">ok</attribute>
+    <attribute key="weather">cloudy</attribute>
+    <attribute key="duplicate">no</attribute>
+    <attribute key="untruth"></attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

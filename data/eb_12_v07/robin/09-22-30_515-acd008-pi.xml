@@ -1,0 +1,55 @@
+<annotation>
+  <folder>robin</folder>
+  <filename>09-22-30_515-acd008-pi.jpg</filename>
+  <path>R:\animals-count\data\estuarybank_12_v07\(pending)\robin\09-22-30_515-acd008-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <score>0.8607873</score>
+    <bndbox>
+      <xmin>1123</xmin>
+      <ymin>553</ymin>
+      <xmax>1227</xmax>
+      <ymax>704</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">rear</attribute>
+      <attribute key="quality"></attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">84</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>robin</name>
+    <score>0.8799988</score>
+    <bndbox>
+      <xmin>1528</xmin>
+      <ymin>655</ymin>
+      <xmax>1799</xmax>
+      <ymax>1011</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">rear</attribute>
+      <attribute key="quality"></attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">84</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="quality">ok</attribute>
+    <attribute key="light"></attribute>
+    <attribute key="weather"></attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

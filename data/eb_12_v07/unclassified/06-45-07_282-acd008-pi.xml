@@ -1,0 +1,34 @@
+<annotation>
+  <folder>2018-09-06</folder>
+  <filename>06-45-07_282-acd008-pi.jpg</filename>
+  <path>X:\animals-count\CAM-02\2018-09-06\06-45-07_282-acd008-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1072</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>unclassified</name>
+    <score>0.5690027</score>
+    <bndbox>
+      <xmin>94</xmin>
+      <ymin>91</ymin>
+      <xmax>238</xmax>
+      <ymax>404</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect"></attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">3</attribute>
+      <attribute key="box-score">100</attribute>
+      <attribute key="class-error">sparrow</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="full-screen">no</attribute>
+    <attribute key="quality">ok</attribute>
+    <attribute key="weather">cloudy</attribute>
+    <attribute key="duplicate">no</attribute>
+  </attributes>
+</annotation>

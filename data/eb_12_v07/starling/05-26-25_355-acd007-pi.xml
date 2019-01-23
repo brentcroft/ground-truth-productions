@@ -1,0 +1,37 @@
+<annotation>
+  <folder>2018-06-10</folder>
+  <filename>05-26-25_355-acd007-pi.jpg</filename>
+  <path>X:\nutsack\CAM-01\2018-06-10\05-26-25_355-acd007-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>starling</name>
+    <score>0.8112587</score>
+    <bndbox>
+      <xmin>865</xmin>
+      <ymin>149</ymin>
+      <xmax>1029</xmax>
+      <ymax>328</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">right</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">-1</attribute>
+      <attribute key="box-score">92</attribute>
+      <attribute key="class-error">dunnock(0.15), robin(0.11)</attribute>
+      <attribute key="class-error-score">0.13110627</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="duplicate">no</attribute>
+    <attribute key="quality">ok</attribute>
+    <attribute key="full-screen">no</attribute>
+    <attribute key="weather">cloudy</attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

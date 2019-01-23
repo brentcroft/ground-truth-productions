@@ -1,0 +1,37 @@
+<annotation>
+  <folder>2018-06-10</folder>
+  <filename>06-06-29_066-acd008-pi.jpg</filename>
+  <path>X:\nutsack\CAM-02\2018-06-10\06-06-29_066-acd008-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1072</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>robin</name>
+    <score>0.75590724</score>
+    <bndbox>
+      <xmin>1638</xmin>
+      <ymin>238</ymin>
+      <xmax>1724</xmax>
+      <ymax>404</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">rear</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">96</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="duplicate">no</attribute>
+    <attribute key="quality">ok</attribute>
+    <attribute key="full-screen">no</attribute>
+    <attribute key="weather">cloudy</attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

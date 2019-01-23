@@ -1,0 +1,36 @@
+<annotation>
+  <folder>2018-12-16</folder>
+  <filename>11-57-46_205-acd008-pi.jpg</filename>
+  <path>X:\animals-count\CAM-02\2018-12-16\11-57-46_205-acd008-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <score>0.9279786</score>
+    <bndbox>
+      <xmin>422</xmin>
+      <ymin>191</ymin>
+      <xmax>669</xmax>
+      <ymax>335</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">rear</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">79</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="quality">ok</attribute>
+    <attribute key="light"></attribute>
+    <attribute key="weather"></attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

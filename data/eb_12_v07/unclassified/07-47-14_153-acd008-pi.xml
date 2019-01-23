@@ -1,0 +1,74 @@
+<annotation>
+  <folder>2018-12-16</folder>
+  <filename>07-47-14_153-acd008-pi.jpg</filename>
+  <path>X:\animals-count\CAM-02\2018-12-16\07-47-14_153-acd008-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>unclassified</name>
+    <score>0</score>
+    <bndbox>
+      <xmin>1406</xmin>
+      <ymin>818</ymin>
+      <xmax>1910</xmax>
+      <ymax>1079</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect"></attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">0</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>unclassified</name>
+    <score>0</score>
+    <bndbox>
+      <xmin>1015</xmin>
+      <ymin>775</ymin>
+      <xmax>1119</xmax>
+      <ymax>934</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect"></attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">0</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>unclassified</name>
+    <score>0</score>
+    <bndbox>
+      <xmin>633</xmin>
+      <ymin>255</ymin>
+      <xmax>710</xmax>
+      <ymax>440</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect"></attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">0</attribute>
+      <attribute key="box-score">0</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="quality">ok</attribute>
+    <attribute key="light"></attribute>
+    <attribute key="weather"></attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

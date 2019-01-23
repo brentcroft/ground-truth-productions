@@ -1,0 +1,37 @@
+<annotation>
+  <folder>blue tit</folder>
+  <filename>14-08-46_429-acd008-pi.jpg</filename>
+  <path>X:\nutsack\ground-truth-data\nutsack_11_v8\blue tit\14-08-46_429-acd008-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1072</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <score>0.32960036</score>
+    <bndbox>
+      <xmin>929</xmin>
+      <ymin>511</ymin>
+      <xmax>1001</xmax>
+      <ymax>622</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">front</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">-1</attribute>
+      <attribute key="box-score">81</attribute>
+      <attribute key="class-error">sparrow(0.20), long tailed tit(0.17)</attribute>
+      <attribute key="class-error-score">0.185041045</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="test">test</attribute>
+    <attribute key="quality">ok</attribute>
+    <attribute key="weather">sunny</attribute>
+    <attribute key="duplicate"></attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

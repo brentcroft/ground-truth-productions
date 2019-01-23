@@ -1,0 +1,36 @@
+<annotation>
+  <folder>2018-10-11</folder>
+  <filename>06-24-43_211-acd008-pi.jpg</filename>
+  <path>X:\animals-count\CAM-02\2018-10-11\06-24-43_211-acd008-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1072</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>mouse</name>
+    <score>0.6700986</score>
+    <bndbox>
+      <xmin>719</xmin>
+      <ymin>490</ymin>
+      <xmax>798</xmax>
+      <ymax>636</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">front left</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">100</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="quality">ok</attribute>
+    <attribute key="light"></attribute>
+    <attribute key="weather"></attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

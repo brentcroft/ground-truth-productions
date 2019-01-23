@@ -1,0 +1,37 @@
+<annotation>
+  <folder>2018-06-19</folder>
+  <filename>12-46-36_028-acd007-pi.jpg</filename>
+  <path>X:\nutsack\CAM-02\2018-06-19\12-46-36_028-acd007-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1072</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blackbird</name>
+    <score>0.921036</score>
+    <bndbox>
+      <xmin>163</xmin>
+      <ymin>588</ymin>
+      <xmax>603</xmax>
+      <ymax>760</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">right</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">100</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.1427311</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="full-screen">no</attribute>
+    <attribute key="quality">ok</attribute>
+    <attribute key="weather">cloudy</attribute>
+    <attribute key="duplicate">no</attribute>
+    <attribute key="untruth"></attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+  <folder>2019-01-02</folder>
+  <filename>10-05-22_840-acd010-pi.jpg</filename>
+  <path>X:\animals-count\CAM-03\2019-01-02\10-05-22_840-acd010-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>wood pigeon</name>
+    <score>0.9773221</score>
+    <bndbox>
+      <xmin>779</xmin>
+      <ymin>803</ymin>
+      <xmax>1193</xmax>
+      <ymax>1013</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">left</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">-1</attribute>
+      <attribute key="box-score">96</attribute>
+      <attribute key="class-error">blackbird(0.10), collared dove(0.10)</attribute>
+      <attribute key="class-error-score">0.101110113</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="quality">ok</attribute>
+    <attribute key="light"></attribute>
+    <attribute key="weather"></attribute>
+    <attribute key="untruth"></attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>

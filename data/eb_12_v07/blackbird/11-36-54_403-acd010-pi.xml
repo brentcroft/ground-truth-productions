@@ -1,0 +1,36 @@
+<annotation>
+  <folder>2018-12-22</folder>
+  <filename>11-36-54_403-acd010-pi.jpg</filename>
+  <path>X:\animals-count\CAM-03\2018-12-22\11-36-54_403-acd010-pi.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blackbird</name>
+    <score>0.87699336</score>
+    <bndbox>
+      <xmin>869</xmin>
+      <ymin>305</ymin>
+      <xmax>1118</xmax>
+      <ymax>441</ymax>
+    </bndbox>
+    <attributes>
+      <attribute key="aspect">right</attribute>
+      <attribute key="quality">ok</attribute>
+      <attribute key="cardinality">1</attribute>
+      <attribute key="box-score">89</attribute>
+      <attribute key="class-error"></attribute>
+      <attribute key="class-error-score">0</attribute>
+      <attribute key="class-score">0.0</attribute>
+    </attributes>
+  </object>
+  <attributes>
+    <attribute key="quality">ok</attribute>
+    <attribute key="light"></attribute>
+    <attribute key="weather"></attribute>
+    <attribute key="untruth">[]</attribute>
+    <attribute key="untruth-count">0</attribute>
+  </attributes>
+</annotation>
