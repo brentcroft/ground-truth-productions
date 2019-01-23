@@ -32,7 +32,7 @@ This kit depends on **tensorflow**, **object_detection**, collections, contextli
 
 This kit comprises:
 
-1. A **data** directory containing one version of ground truth data:<br>
+1. A **data** directory containing one version of (minimal) ground truth data:<br>
     eb_12_v07
     
 2. A **lib** directory containing Python modules.
