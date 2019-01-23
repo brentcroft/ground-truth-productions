@@ -90,7 +90,7 @@ def get_labeled_objects( classification_file=None, min_score_thresh=0, class_min
         class_name = member.find('name').text
         
         score = member.find('score')
-        score = 0.99 if score is None else float( member.find('score').text )
+        score = 100 if score is None else float( member.find('score').text )
         
         valid_score = ( score >= min_score_thresh )
         
@@ -113,7 +113,7 @@ def get_labeled_objects( classification_file=None, min_score_thresh=0, class_min
 
 
 """
-def draw_objects_on_image( image = None, objects = None, class_colors = None, line_thickness = 5 ):
+def draw_objects_on_image( image = None, objects = None, class_colors = None, line_thickness = 5, no_scores=False ):
     # sort by score ([5]) so high score boxes overlay low scores
     objects.sort( key = lambda x: x[5])
     for box in objects:
@@ -122,6 +122,12 @@ def draw_objects_on_image( image = None, objects = None, class_colors = None, li
         else:
             print( "No class color for category: {}".format( box[0] ) )
             class_color = 'yellow'
+            
+        if no_scores:
+            display_str_list=[ '{}'.format( box[0] ) ]
+        else:
+            display_str_list=[ '{} {}%'.format( box[0], str( round( box[5] * 100 ) ) ) ]
+        
         # note unusual order of co-ords
         vis_util.draw_bounding_box_on_image(
             image, box[2], box[1], box[4], box[3],
@@ -134,11 +140,11 @@ def draw_objects_on_image( image = None, objects = None, class_colors = None, li
 """        
 def create_boxed_image( image_file=None, classification_file=None, save_file=None, image_box_details=None ):
     # unpack image_box_details
-    min_score_thresh, class_min_score_thresh, class_colors, line_thickness = image_box_details
+    min_score_thresh, class_min_score_thresh, class_colors, line_thickness, no_scores = image_box_details
     labeled_objects = get_labeled_objects( classification_file, min_score_thresh, class_min_score_thresh )  
     if len( labeled_objects ) > 0:
         image = PIL.Image.open( image_file, 'r' )    
-        draw_objects_on_image( image, labeled_objects, class_colors, line_thickness )
+        draw_objects_on_image( image, labeled_objects, class_colors, line_thickness, no_scores )
         image.save( save_file )
         return True
     else:
@@ -163,7 +169,8 @@ def create_boxed_images(
         min_score_thresh=0,
         class_min_score_thresh={}, 
         class_colors={}, 
-        line_thickness=5
+        line_thickness=5,
+        no_scores=False
     ):
 
     feature_files = [ 
@@ -205,7 +212,7 @@ def create_boxed_images(
 
             # might not create an image if scores are too low etc.
             # therefore only count ones that say they got created
-            image_box_details = ( min_score_thresh, class_min_score_thresh, class_colors, line_thickness )
+            image_box_details = ( min_score_thresh, class_min_score_thresh, class_colors, line_thickness, no_scores )
             
             if create_boxed_image( 
                     image_file=os.path.join( image_path, image_file ), 
