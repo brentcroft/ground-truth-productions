@@ -3,22 +3,22 @@
 This kit is a workshop for building data packages **at a given output resolution**, with scalings and tilings, ready for TensorFlow training from a ground truth data source.
 
 ## Scalings
-![1920x1080@720x405](scaled_x_1920x1080@720x405_09-41-20_391-acd008-pi_1-(1).jpg)
+![480x270@480x270](scaled_g_480x270@480x270_00-15-44_543-acd008-pi_1-(1).jpg)
 
-![1600x900@720x405](scaled_s_1600x900@720x405_09-41-20_391-acd008-pi_1-(1).jpg)
+![960x540@480x270](scaled_m_960x540@480x270_00-15-44_543-acd008-pi_1-(1).jpg)
 
-![960x540@720x405](scaled_m_960x540@720x405_09-41-20_391-acd008-pi_1-(1).jpg)
+![1600x900@480x270](scaled_s_1600x900@480x270_00-15-44_543-acd008-pi_1-(1).jpg)
 
-![720x405@720x405](scaled_g_720x405@720x405_09-41-20_391-acd008-pi_1-(1).jpg)
+![1920x1080@480x270](scaled_x_1920x1080@480x270_00-15-44_543-acd008-pi_1-(1).jpg)
 
 ## Tilings
-![1920x1080@720x405](tiled_x_1920x1080@720x405_0_1-(11).jpg)
+![480x270@480x270](tiled_g_480x270@480x270_0_1-(2).jpg)
 
-![1600x900@720x405](tiled_s_1600x900@720x405_0_1-(7).jpg)
+![960x540@480x270](tiled_m_960x540@480x270_0_1-(5).jpg)
 
-![960x540@720x405](tiled_m_960x540@720x405_0_1-(3).jpg)
+![1600x900@480x270](tiled_s_1600x900@480x270_0_1-(6).jpg)
 
-![720x405@720x405](tiled_g_720x405@720x405_0_4-(2).jpg)
+![1920x1080@480x270](tiled_x_1920x1080@480x270_0_1-(10).jpg)
 
 
 
