@@ -22,7 +22,7 @@ See the README.md file there for further details.
 
 
 ## Scalings
-Given the original images are at 1920x1080 and the desired output resolution is 480x270 then a sequence of scalings can be made:
+Given ground truth images at 1920x1080 and a desired output resolution of 480x270 then a sequence of scalings can be constructed:
 
 ![480x270@480x270](scaled_g_480x270@480x270_00-15-44_543-acd008-pi_1-(1).jpg)
 
@@ -33,9 +33,7 @@ Given the original images are at 1920x1080 and the desired output resolution is 
 ![1920x1080@480x270](scaled_x_1920x1080@480x270_00-15-44_543-acd008-pi_1-(1).jpg)
 
 ## Tilings
-Given the original images are at 1920x1080 and the desired output resolution is 480x270 then a sequence of tilings can be made:
-
-Note that, with sufficient data, tilings produce permutations and can be repeated many times.
+Given ground truth images at 1920x1080 and a desired output resolution of 480x270 then a sequence of tiling permutations can be constructed:
 
 ![480x270@480x270](tiled_g_480x270@480x270_0_1-(2).jpg)
 
