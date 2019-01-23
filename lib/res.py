@@ -12,16 +12,9 @@ import PIL
 import pandas as pd
 """
 
-    TensorFlow & Lucid imports
+    TensorFlow imports
 """
 import tensorflow as tf
-import lucid.optvis.render as render
-
-from lucid.misc.io.serialize_array import _normalize_array as normalize_array
-
-import lucid.optvis.objectives as objectives
-import lucid.optvis.param as param
-import lucid.optvis.transform as transform
 """
 
     Local library imports
