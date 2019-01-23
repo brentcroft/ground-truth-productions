@@ -1,0 +1,74 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_1_1-(7).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>18</xmin>
+      <ymin>20</ymin>
+      <xmax>39</xmax>
+      <ymax>55</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>22</xmin>
+      <ymin>86</ymin>
+      <xmax>34</xmax>
+      <ymax>109</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wood pigeon</name>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>20</ymin>
+      <xmax>148</xmax>
+      <ymax>55</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>188</xmin>
+      <ymin>20</ymin>
+      <xmax>274</xmax>
+      <ymax>54</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>78</xmin>
+      <ymin>140</ymin>
+      <xmax>96</xmax>
+      <ymax>153</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>86</ymin>
+      <xmax>172</xmax>
+      <ymax>120</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>194</xmin>
+      <ymin>79</ymin>
+      <xmax>246</xmax>
+      <ymax>122</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\great tit\\09-18-22_520-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_s_1600x900@480x270_0_16-(2).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>139</xmin>
+      <ymin>15</ymin>
+      <xmax>264</xmax>
+      <ymax>83</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wood pigeon</name>
+    <bndbox>
+      <xmin>201</xmin>
+      <ymin>113</ymin>
+      <xmax>394</xmax>
+      <ymax>197</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\08-01-53_493-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

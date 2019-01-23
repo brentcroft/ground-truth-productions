@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_2_26-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>90</xmin>
+      <ymin>97</ymin>
+      <xmax>153</xmax>
+      <ymax>166</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>203</xmin>
+      <ymin>97</ymin>
+      <xmax>232</xmax>
+      <ymax>152</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\04-02-53_478-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

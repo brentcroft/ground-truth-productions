@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_x_1920x1080@320x180_04-37-29_646-acd007-pi_1-(1).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>98</xmin>
+      <ymin>40</ymin>
+      <xmax>110</xmax>
+      <ymax>58</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\robin\\04-37-29_646-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

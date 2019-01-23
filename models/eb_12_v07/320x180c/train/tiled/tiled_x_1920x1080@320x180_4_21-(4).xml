@@ -1,0 +1,47 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_4_21-(4).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>14</xmin>
+      <ymin>88</ymin>
+      <xmax>42</xmax>
+      <ymax>122</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>83</xmin>
+      <ymin>20</ymin>
+      <xmax>144</xmax>
+      <ymax>58</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>142</xmin>
+      <ymin>87</ymin>
+      <xmax>181</xmax>
+      <ymax>137</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>206</xmin>
+      <ymin>87</ymin>
+      <xmax>252</xmax>
+      <ymax>146</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\04-02-53_478-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

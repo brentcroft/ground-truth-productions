@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_4_28-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>wood pigeon</name>
+    <bndbox>
+      <xmin>24</xmin>
+      <ymin>24</ymin>
+      <xmax>153</xmax>
+      <ymax>80</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>184</xmin>
+      <ymin>24</ymin>
+      <xmax>238</xmax>
+      <ymax>73</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\wood pigeon\\07-46-27_192-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

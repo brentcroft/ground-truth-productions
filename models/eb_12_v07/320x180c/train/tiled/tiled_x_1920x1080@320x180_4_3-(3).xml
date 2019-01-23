@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_4_3-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>52</xmin>
+      <ymin>89</ymin>
+      <xmax>92</xmax>
+      <ymax>130</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>149</xmin>
+      <ymin>20</ymin>
+      <xmax>192</xmax>
+      <ymax>103</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>151</xmin>
+      <ymin>143</ymin>
+      <xmax>190</xmax>
+      <ymax>158</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\04-02-53_478-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

@@ -1,0 +1,47 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_2_26-(4).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>11</xmin>
+      <ymin>109</ymin>
+      <xmax>57</xmax>
+      <ymax>159</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>90</xmin>
+      <ymin>24</ymin>
+      <xmax>146</xmax>
+      <ymax>73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>93</xmin>
+      <ymin>106</ymin>
+      <xmax>143</xmax>
+      <ymax>136</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>177</xmin>
+      <ymin>24</ymin>
+      <xmax>230</xmax>
+      <ymax>65</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\04-08-53_582-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

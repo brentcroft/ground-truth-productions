@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_m_960x540@320x180_1_6-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>39</xmin>
+      <ymin>40</ymin>
+      <xmax>75</xmax>
+      <ymax>66</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>40</ymin>
+      <xmax>217</xmax>
+      <ymax>109</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\dunnock\\05-31-52_690-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_m_960x540@320x180_13-05-53_597-acd008-pi_1-(1).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>48</xmin>
+      <ymin>46</ymin>
+      <xmax>109</xmax>
+      <ymax>121</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\sparrow\\13-05-53_597-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

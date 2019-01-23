@@ -1,0 +1,65 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_5_2-(6).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>20</xmin>
+      <ymin>20</ymin>
+      <xmax>106</xmax>
+      <ymax>54</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>132</xmin>
+      <ymin>20</ymin>
+      <xmax>178</xmax>
+      <ymax>54</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>200</xmin>
+      <ymin>13</ymin>
+      <xmax>252</xmax>
+      <ymax>56</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>18</xmin>
+      <ymin>86</ymin>
+      <xmax>39</xmax>
+      <ymax>124</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>86</ymin>
+      <xmax>152</xmax>
+      <ymax>114</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>190</xmin>
+      <ymin>86</ymin>
+      <xmax>212</xmax>
+      <ymax>121</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\collared dove\\09-31-29_096-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

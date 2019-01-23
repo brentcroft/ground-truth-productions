@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_2_12-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>81</xmin>
+      <ymin>84</ymin>
+      <xmax>94</xmax>
+      <ymax>109</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>202</xmin>
+      <ymin>20</ymin>
+      <xmax>225</xmax>
+      <ymax>48</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>261</xmin>
+      <ymin>20</ymin>
+      <xmax>285</xmax>
+      <ymax>46</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\05-56-33_408-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

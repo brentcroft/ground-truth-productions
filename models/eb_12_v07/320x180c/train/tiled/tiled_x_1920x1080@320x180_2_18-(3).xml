@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_2_18-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>131</xmin>
+      <ymin>20</ymin>
+      <xmax>170</xmax>
+      <ymax>70</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>137</xmin>
+      <ymin>93</ymin>
+      <xmax>164</xmax>
+      <ymax>123</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>263</xmin>
+      <ymin>88</ymin>
+      <xmax>300</xmax>
+      <ymax>137</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\05-56-33_408-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

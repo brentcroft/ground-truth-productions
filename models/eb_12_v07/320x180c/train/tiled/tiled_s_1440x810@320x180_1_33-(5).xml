@@ -1,0 +1,56 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_1_33-(5).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>6</xmin>
+      <ymin>27</ymin>
+      <xmax>69</xmax>
+      <ymax>76</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>103</xmin>
+      <ymin>27</ymin>
+      <xmax>165</xmax>
+      <ymax>72</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>108</xmin>
+      <ymin>114</ymin>
+      <xmax>159</xmax>
+      <ymax>169</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>209</xmin>
+      <ymin>27</ymin>
+      <xmax>249</xmax>
+      <ymax>80</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>207</xmin>
+      <ymin>118</ymin>
+      <xmax>252</xmax>
+      <ymax>157</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\dunnock\\11-22-00_353-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

@@ -1,0 +1,74 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_7_6-(7).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>5</xmin>
+      <ymin>65</ymin>
+      <xmax>51</xmax>
+      <ymax>106</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>9</xmin>
+      <ymin>134</ymin>
+      <xmax>48</xmax>
+      <ymax>149</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>77</xmin>
+      <ymin>112</ymin>
+      <xmax>122</xmax>
+      <ymax>137</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>147</xmin>
+      <ymin>65</ymin>
+      <xmax>195</xmax>
+      <ymax>116</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>165</xmin>
+      <ymin>139</ymin>
+      <xmax>177</xmax>
+      <ymax>156</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>221</xmin>
+      <ymin>65</ymin>
+      <xmax>265</xmax>
+      <ymax>87</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>226</xmin>
+      <ymin>124</ymin>
+      <xmax>261</xmax>
+      <ymax>169</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\05-56-33_408-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

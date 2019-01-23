@@ -1,0 +1,47 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_0_26-(4).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>27</ymin>
+      <xmax>57</xmax>
+      <ymax>79</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>117</ymin>
+      <xmax>57</xmax>
+      <ymax>143</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>94</xmin>
+      <ymin>89</ymin>
+      <xmax>149</xmax>
+      <ymax>143</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>193</xmin>
+      <ymin>89</ymin>
+      <xmax>233</xmax>
+      <ymax>119</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\starling\\04-54-01_780-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

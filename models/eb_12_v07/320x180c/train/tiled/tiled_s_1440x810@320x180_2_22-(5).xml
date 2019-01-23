@@ -1,0 +1,56 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_2_22-(5).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>30</xmin>
+      <ymin>27</ymin>
+      <xmax>46</xmax>
+      <ymax>51</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>83</xmin>
+      <ymin>27</ymin>
+      <xmax>138</xmax>
+      <ymax>81</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>100</xmin>
+      <ymin>118</ymin>
+      <xmax>120</xmax>
+      <ymax>144</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>263</xmin>
+      <ymin>27</ymin>
+      <xmax>290</xmax>
+      <ymax>60</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>172</xmin>
+      <ymin>111</ymin>
+      <xmax>232</xmax>
+      <ymax>166</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\blue tit\\14-08-46_429-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

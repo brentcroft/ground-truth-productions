@@ -1,0 +1,56 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_0_19-(5).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>16</xmin>
+      <ymin>91</ymin>
+      <xmax>40</xmax>
+      <ymax>132</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>77</xmin>
+      <ymin>20</ymin>
+      <xmax>120</xmax>
+      <ymax>103</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>160</xmin>
+      <ymin>20</ymin>
+      <xmax>218</xmax>
+      <ymax>63</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>246</xmin>
+      <ymin>20</ymin>
+      <xmax>286</xmax>
+      <ymax>59</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>147</xmin>
+      <ymin>90</ymin>
+      <xmax>189</xmax>
+      <ymax>114</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\04-08-53_582-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

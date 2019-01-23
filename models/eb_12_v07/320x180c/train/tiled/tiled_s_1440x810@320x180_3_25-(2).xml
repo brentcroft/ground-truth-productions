@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_3_25-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>86</xmin>
+      <ymin>27</ymin>
+      <xmax>148</xmax>
+      <ymax>76</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wood pigeon</name>
+    <bndbox>
+      <xmin>203</xmin>
+      <ymin>27</ymin>
+      <xmax>223</xmax>
+      <ymax>63</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\05-56-33_408-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

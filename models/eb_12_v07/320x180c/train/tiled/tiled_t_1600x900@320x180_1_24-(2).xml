@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_1_24-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>9</xmin>
+      <ymin>24</ymin>
+      <xmax>59</xmax>
+      <ymax>65</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>88</xmin>
+      <ymin>87</ymin>
+      <xmax>146</xmax>
+      <ymax>149</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\blue tit\\07-47-42_908-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

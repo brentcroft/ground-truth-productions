@@ -1,0 +1,56 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_3_18-(5).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>14</xmin>
+      <ymin>24</ymin>
+      <xmax>54</xmax>
+      <ymax>59</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>99</xmin>
+      <ymin>24</ymin>
+      <xmax>125</xmax>
+      <ymax>74</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>169</xmin>
+      <ymin>24</ymin>
+      <xmax>198</xmax>
+      <ymax>55</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>248</xmin>
+      <ymin>24</ymin>
+      <xmax>263</xmax>
+      <ymax>54</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>236</xmin>
+      <ymin>97</ymin>
+      <xmax>264</xmax>
+      <ymax>172</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\goldfinch\\10-58-44_554-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

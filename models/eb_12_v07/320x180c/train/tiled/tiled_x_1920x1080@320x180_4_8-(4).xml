@@ -1,0 +1,47 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_4_8-(4).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>16</xmin>
+      <ymin>89</ymin>
+      <xmax>41</xmax>
+      <ymax>131</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>115</xmin>
+      <ymin>20</ymin>
+      <xmax>139</xmax>
+      <ymax>46</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>180</xmin>
+      <ymin>90</ymin>
+      <xmax>194</xmax>
+      <ymax>117</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>226</xmin>
+      <ymin>78</ymin>
+      <xmax>268</xmax>
+      <ymax>101</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\08-02-26_592-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

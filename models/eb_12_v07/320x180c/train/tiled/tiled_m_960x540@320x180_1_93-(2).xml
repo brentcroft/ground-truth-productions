@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_m_960x540@320x180_1_93-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>31</xmin>
+      <ymin>40</ymin>
+      <xmax>83</xmax>
+      <ymax>76</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>150</xmin>
+      <ymin>40</ymin>
+      <xmax>209</xmax>
+      <ymax>114</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\long tailed tit\\08-58-58-acd004-pi.xml']</attribute>
+  </attributes>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_2_7-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>16</xmin>
+      <ymin>20</ymin>
+      <xmax>41</xmax>
+      <ymax>66</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>64</xmin>
+      <ymin>20</ymin>
+      <xmax>115</xmax>
+      <ymax>51</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>156</xmin>
+      <ymin>142</ymin>
+      <xmax>170</xmax>
+      <ymax>161</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\long tailed tit\\10-08-06-acd004-pi.xml']</attribute>
+  </attributes>
+</annotation>

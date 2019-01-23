@@ -1,0 +1,20 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_3_5-(1).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>213</xmin>
+      <ymin>82</ymin>
+      <xmax>271</xmax>
+      <ymax>126</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\05-56-33_408-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

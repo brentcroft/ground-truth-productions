@@ -1,0 +1,74 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_0_4-(7).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>4</xmin>
+      <ymin>20</ymin>
+      <xmax>53</xmax>
+      <ymax>56</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>11</xmin>
+      <ymin>86</ymin>
+      <xmax>46</xmax>
+      <ymax>131</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>91</xmin>
+      <ymin>20</ymin>
+      <xmax>112</xmax>
+      <ymax>48</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>149</xmin>
+      <ymin>20</ymin>
+      <xmax>171</xmax>
+      <ymax>48</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>273</xmin>
+      <ymin>20</ymin>
+      <xmax>290</xmax>
+      <ymax>36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>211</xmin>
+      <ymin>78</ymin>
+      <xmax>278</xmax>
+      <ymax>108</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>214</xmin>
+      <ymin>141</ymin>
+      <xmax>226</xmax>
+      <ymax>160</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\dunnock\\07-16-26_220-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

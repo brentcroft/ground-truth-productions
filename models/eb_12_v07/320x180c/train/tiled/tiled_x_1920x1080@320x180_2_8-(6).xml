@@ -1,0 +1,65 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_2_8-(6).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>3</xmin>
+      <ymin>8</ymin>
+      <xmax>54</xmax>
+      <ymax>42</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>21</xmin>
+      <ymin>73</ymin>
+      <xmax>36</xmax>
+      <ymax>101</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>80</xmin>
+      <ymin>20</ymin>
+      <xmax>125</xmax>
+      <ymax>79</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>89</xmin>
+      <ymin>119</ymin>
+      <xmax>115</xmax>
+      <ymax>152</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>152</xmin>
+      <ymin>20</ymin>
+      <xmax>194</xmax>
+      <ymax>45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>151</xmin>
+      <ymin>81</ymin>
+      <xmax>196</xmax>
+      <ymax>140</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\starling\\06-36-45_827-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

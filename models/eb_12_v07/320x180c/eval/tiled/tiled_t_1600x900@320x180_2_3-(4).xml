@@ -1,0 +1,47 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_2_3-(4).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>7</xmin>
+      <ymin>24</ymin>
+      <xmax>62</xmax>
+      <ymax>65</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>21</xmin>
+      <ymin>103</ymin>
+      <xmax>47</xmax>
+      <ymax>155</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>88</xmin>
+      <ymin>16</ymin>
+      <xmax>151</xmax>
+      <ymax>68</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wood pigeon</name>
+    <bndbox>
+      <xmin>199</xmin>
+      <ymin>24</ymin>
+      <xmax>282</xmax>
+      <ymax>66</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\starling\\05-49-37_323-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

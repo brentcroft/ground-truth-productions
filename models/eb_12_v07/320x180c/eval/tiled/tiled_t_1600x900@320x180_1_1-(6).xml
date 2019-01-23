@@ -1,0 +1,65 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_1_1-(6).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>21</xmin>
+      <ymin>24</ymin>
+      <xmax>47</xmax>
+      <ymax>70</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>27</xmin>
+      <ymin>105</ymin>
+      <xmax>41</xmax>
+      <ymax>133</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>98</xmin>
+      <ymin>89</ymin>
+      <xmax>112</xmax>
+      <ymax>131</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wood pigeon</name>
+    <bndbox>
+      <xmin>169</xmin>
+      <ymin>24</ymin>
+      <xmax>252</xmax>
+      <ymax>66</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>151</xmin>
+      <ymin>103</ymin>
+      <xmax>206</xmax>
+      <ymax>144</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>252</xmin>
+      <ymin>103</ymin>
+      <xmax>277</xmax>
+      <ymax>155</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\starling\\05-49-37_323-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

@@ -1,0 +1,65 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_3_2-(6).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>18</xmin>
+      <ymin>74</ymin>
+      <xmax>39</xmax>
+      <ymax>118</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>20</ymin>
+      <xmax>101</xmax>
+      <ymax>59</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>84</xmin>
+      <ymin>88</ymin>
+      <xmax>96</xmax>
+      <ymax>123</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>141</xmin>
+      <ymin>20</ymin>
+      <xmax>227</xmax>
+      <ymax>54</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wood pigeon</name>
+    <bndbox>
+      <xmin>141</xmin>
+      <ymin>86</ymin>
+      <xmax>210</xmax>
+      <ymax>120</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>232</xmin>
+      <ymin>79</ymin>
+      <xmax>284</xmax>
+      <ymax>122</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\03-15-33_386-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

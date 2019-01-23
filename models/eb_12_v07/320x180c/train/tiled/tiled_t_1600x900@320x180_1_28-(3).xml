@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_1_28-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>21</xmin>
+      <ymin>24</ymin>
+      <xmax>47</xmax>
+      <ymax>74</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>95</xmin>
+      <ymin>24</ymin>
+      <xmax>178</xmax>
+      <ymax>69</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>221</xmin>
+      <ymin>24</ymin>
+      <xmax>252</xmax>
+      <ymax>45</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\long tailed tit\\08-58-58-acd004-pi.xml']</attribute>
+  </attributes>
+</annotation>

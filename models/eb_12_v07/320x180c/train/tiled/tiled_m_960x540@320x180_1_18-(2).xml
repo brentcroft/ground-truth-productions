@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_m_960x540@320x180_1_18-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>35</xmin>
+      <ymin>40</ymin>
+      <xmax>78</xmax>
+      <ymax>123</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>141</xmin>
+      <ymin>40</ymin>
+      <xmax>209</xmax>
+      <ymax>99</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\long tailed tit\\08-58-58-acd004-pi.xml']</attribute>
+  </attributes>
+</annotation>

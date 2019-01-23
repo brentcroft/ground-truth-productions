@@ -1,0 +1,47 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_2_24-(4).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>137</xmin>
+      <ymin>24</ymin>
+      <xmax>168</xmax>
+      <ymax>75</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>139</xmin>
+      <ymin>108</ymin>
+      <xmax>165</xmax>
+      <ymax>158</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>264</xmin>
+      <ymin>24</ymin>
+      <xmax>292</xmax>
+      <ymax>98</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>260</xmin>
+      <ymin>122</ymin>
+      <xmax>295</xmax>
+      <ymax>167</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\08-02-26_592-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

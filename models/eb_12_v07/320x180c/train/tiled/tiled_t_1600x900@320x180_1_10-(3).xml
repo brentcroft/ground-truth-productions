@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_1_10-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>124</xmin>
+      <ymin>24</ymin>
+      <xmax>180</xmax>
+      <ymax>65</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>134</xmin>
+      <ymin>102</ymin>
+      <xmax>169</xmax>
+      <ymax>147</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>208</xmin>
+      <ymin>24</ymin>
+      <xmax>267</xmax>
+      <ymax>68</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\07-11-44_938-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

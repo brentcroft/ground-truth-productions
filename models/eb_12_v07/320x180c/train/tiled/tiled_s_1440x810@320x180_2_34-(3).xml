@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_2_34-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>103</xmin>
+      <ymin>27</ymin>
+      <xmax>184</xmax>
+      <ymax>77</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>223</xmin>
+      <ymin>27</ymin>
+      <xmax>275</xmax>
+      <ymax>47</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>94</xmin>
+      <ymin>116</ymin>
+      <xmax>135</xmax>
+      <ymax>146</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\04-08-53_582-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

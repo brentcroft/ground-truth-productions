@@ -1,0 +1,65 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_0_1-(6).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>24</xmin>
+      <ymin>27</ymin>
+      <xmax>52</xmax>
+      <ymax>74</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>30</xmin>
+      <ymin>115</ymin>
+      <xmax>46</xmax>
+      <ymax>145</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>82</xmin>
+      <ymin>18</ymin>
+      <xmax>152</xmax>
+      <ymax>75</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>86</xmin>
+      <ymin>111</ymin>
+      <xmax>147</xmax>
+      <ymax>157</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>204</xmin>
+      <ymin>27</ymin>
+      <xmax>228</xmax>
+      <ymax>44</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>208</xmin>
+      <ymin>100</ymin>
+      <xmax>224</xmax>
+      <ymax>146</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\great tit\\09-18-22_520-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

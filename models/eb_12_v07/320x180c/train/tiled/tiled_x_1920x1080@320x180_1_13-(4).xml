@@ -1,0 +1,47 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_1_13-(4).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>20</xmin>
+      <ymin>134</ymin>
+      <xmax>37</xmax>
+      <ymax>162</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>20</ymin>
+      <xmax>169</xmax>
+      <ymax>62</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>165</xmin>
+      <ymin>89</ymin>
+      <xmax>208</xmax>
+      <ymax>127</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>249</xmin>
+      <ymin>89</ymin>
+      <xmax>264</xmax>
+      <ymax>108</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\05-56-33_408-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

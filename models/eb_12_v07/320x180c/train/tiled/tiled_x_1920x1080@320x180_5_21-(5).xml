@@ -1,0 +1,56 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_5_21-(5).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>wood pigeon</name>
+    <bndbox>
+      <xmin>20</xmin>
+      <ymin>20</ymin>
+      <xmax>109</xmax>
+      <ymax>75</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>145</xmin>
+      <ymin>20</ymin>
+      <xmax>169</xmax>
+      <ymax>82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>194</xmin>
+      <ymin>16</ymin>
+      <xmax>240</xmax>
+      <ymax>62</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>202</xmin>
+      <ymin>87</ymin>
+      <xmax>232</xmax>
+      <ymax>124</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>261</xmin>
+      <ymin>87</ymin>
+      <xmax>299</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\wood pigeon\\09-06-48_758-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

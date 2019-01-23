@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_1_2-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>24</ymin>
+      <xmax>126</xmax>
+      <ymax>84</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>171</xmin>
+      <ymin>24</ymin>
+      <xmax>197</xmax>
+      <ymax>58</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>233</xmin>
+      <ymin>99</ymin>
+      <xmax>271</xmax>
+      <ymax>135</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\07-47-14_153-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

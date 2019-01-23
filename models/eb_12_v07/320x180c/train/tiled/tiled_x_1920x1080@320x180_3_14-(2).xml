@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_3_14-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>68</xmin>
+      <ymin>73</ymin>
+      <xmax>104</xmax>
+      <ymax>122</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>263</xmin>
+      <ymin>73</ymin>
+      <xmax>291</xmax>
+      <ymax>92</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\05-56-33_408-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

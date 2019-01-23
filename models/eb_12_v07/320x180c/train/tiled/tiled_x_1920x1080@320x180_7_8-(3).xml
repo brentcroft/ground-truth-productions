@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_7_8-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>199</xmin>
+      <ymin>20</ymin>
+      <xmax>212</xmax>
+      <ymax>45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>192</xmin>
+      <ymin>81</ymin>
+      <xmax>218</xmax>
+      <ymax>127</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>244</xmin>
+      <ymin>81</ymin>
+      <xmax>289</xmax>
+      <ymax>140</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\04-08-53_582-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

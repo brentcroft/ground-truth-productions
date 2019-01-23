@@ -1,0 +1,47 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_2_3-(4).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>27</xmin>
+      <ymin>27</ymin>
+      <xmax>142</xmax>
+      <ymax>73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>195</xmin>
+      <ymin>27</ymin>
+      <xmax>293</xmax>
+      <ymax>65</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>7</xmin>
+      <ymin>114</ymin>
+      <xmax>68</xmax>
+      <ymax>160</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>98</xmin>
+      <ymin>105</ymin>
+      <xmax>168</xmax>
+      <ymax>162</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\collared dove\\09-31-29_096-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

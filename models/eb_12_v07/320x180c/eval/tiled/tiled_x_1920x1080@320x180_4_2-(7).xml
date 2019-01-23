@@ -1,0 +1,74 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_4_2-(7).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>18</xmin>
+      <ymin>20</ymin>
+      <xmax>39</xmax>
+      <ymax>59</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>22</xmin>
+      <ymin>88</ymin>
+      <xmax>34</xmax>
+      <ymax>110</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>20</ymin>
+      <xmax>166</xmax>
+      <ymax>54</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>193</xmin>
+      <ymin>20</ymin>
+      <xmax>234</xmax>
+      <ymax>44</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>86</ymin>
+      <xmax>152</xmax>
+      <ymax>114</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>195</xmin>
+      <ymin>86</ymin>
+      <xmax>207</xmax>
+      <ymax>120</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>229</xmin>
+      <ymin>79</ymin>
+      <xmax>281</xmax>
+      <ymax>122</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\starling\\05-49-37_323-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

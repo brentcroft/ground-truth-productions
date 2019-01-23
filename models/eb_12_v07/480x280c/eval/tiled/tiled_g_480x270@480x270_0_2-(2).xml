@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_g_480x270@480x270_0_2-(2).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>47</xmin>
+      <ymin>50</ymin>
+      <xmax>154</xmax>
+      <ymax>127</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>226</xmin>
+      <ymin>50</ymin>
+      <xmax>382</xmax>
+      <ymax>157</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\dunnock\\05-31-52_690-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

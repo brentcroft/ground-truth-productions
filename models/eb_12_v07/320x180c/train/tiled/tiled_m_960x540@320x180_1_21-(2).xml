@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_m_960x540@320x180_1_21-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>3</xmin>
+      <ymin>40</ymin>
+      <xmax>111</xmax>
+      <ymax>108</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>186</xmin>
+      <ymin>40</ymin>
+      <xmax>229</xmax>
+      <ymax>164</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\sparrow\\13-44-45_413-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

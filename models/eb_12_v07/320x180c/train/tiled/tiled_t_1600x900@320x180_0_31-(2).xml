@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_0_31-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>6</xmin>
+      <ymin>100</ymin>
+      <xmax>62</xmax>
+      <ymax>141</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>198</xmin>
+      <ymin>24</ymin>
+      <xmax>258</xmax>
+      <ymax>61</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\07-47-14_153-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_x_1920x1080@320x180_09-25-48_127-acd008-pi_1-(1).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>250</xmin>
+      <ymin>128</ymin>
+      <xmax>296</xmax>
+      <ymax>169</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\dunnock\\09-25-48_127-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

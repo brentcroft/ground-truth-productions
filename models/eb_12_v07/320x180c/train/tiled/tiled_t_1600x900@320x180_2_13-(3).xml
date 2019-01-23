@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_2_13-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>131</xmin>
+      <ymin>24</ymin>
+      <xmax>190</xmax>
+      <ymax>77</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>143</xmin>
+      <ymin>109</ymin>
+      <xmax>179</xmax>
+      <ymax>157</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>234</xmin>
+      <ymin>109</ymin>
+      <xmax>263</xmax>
+      <ymax>140</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\07-47-14_153-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

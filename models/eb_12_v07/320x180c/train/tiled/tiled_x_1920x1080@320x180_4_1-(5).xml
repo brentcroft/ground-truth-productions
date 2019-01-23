@@ -1,0 +1,56 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_4_1-(5).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>20</xmin>
+      <ymin>20</ymin>
+      <xmax>79</xmax>
+      <ymax>53</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>119</xmin>
+      <ymin>20</ymin>
+      <xmax>186</xmax>
+      <ymax>50</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>276</xmin>
+      <ymin>20</ymin>
+      <xmax>290</xmax>
+      <ymax>39</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>117</xmin>
+      <ymin>83</ymin>
+      <xmax>137</xmax>
+      <ymax>108</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>162</xmin>
+      <ymin>83</ymin>
+      <xmax>209</xmax>
+      <ymax>120</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\great tit\\06-26-08_170-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

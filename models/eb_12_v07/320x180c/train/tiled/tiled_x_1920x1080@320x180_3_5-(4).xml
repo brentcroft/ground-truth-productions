@@ -1,0 +1,47 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_3_5-(4).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>92</xmin>
+      <ymin>68</ymin>
+      <xmax>114</xmax>
+      <ymax>96</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>90</xmin>
+      <ymin>130</ymin>
+      <xmax>116</xmax>
+      <ymax>148</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>155</xmin>
+      <ymin>20</ymin>
+      <xmax>175</xmax>
+      <ymax>68</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>199</xmin>
+      <ymin>73</ymin>
+      <xmax>248</xmax>
+      <ymax>109</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\08-01-53_493-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

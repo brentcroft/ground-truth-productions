@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_2_20-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>7</xmin>
+      <ymin>21</ymin>
+      <xmax>69</xmax>
+      <ymax>83</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>24</xmin>
+      <ymin>116</ymin>
+      <xmax>52</xmax>
+      <ymax>153</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\sparrow\\13-05-12_526-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

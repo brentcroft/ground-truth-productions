@@ -1,0 +1,47 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_0_11-(4).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>100</xmin>
+      <ymin>27</ymin>
+      <xmax>129</xmax>
+      <ymax>64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>100</xmin>
+      <ymin>110</ymin>
+      <xmax>129</xmax>
+      <ymax>165</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>185</xmin>
+      <ymin>27</ymin>
+      <xmax>203</xmax>
+      <ymax>44</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wood pigeon</name>
+    <bndbox>
+      <xmin>246</xmin>
+      <ymin>27</ymin>
+      <xmax>289</xmax>
+      <ymax>56</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\04-08-53_582-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

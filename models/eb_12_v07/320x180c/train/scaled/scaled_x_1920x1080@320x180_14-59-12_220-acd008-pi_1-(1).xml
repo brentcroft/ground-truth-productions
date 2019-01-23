@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_x_1920x1080@320x180_14-59-12_220-acd008-pi_1-(1).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>146</xmin>
+      <ymin>118</ymin>
+      <xmax>169</xmax>
+      <ymax>180</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\goldfinch\\14-59-12_220-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

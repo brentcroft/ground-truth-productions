@@ -1,0 +1,47 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_2_11-(4).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>26</xmin>
+      <ymin>24</ymin>
+      <xmax>42</xmax>
+      <ymax>54</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>72</xmin>
+      <ymin>24</ymin>
+      <xmax>128</xmax>
+      <ymax>65</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>91</xmin>
+      <ymin>102</ymin>
+      <xmax>108</xmax>
+      <ymax>136</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>233</xmin>
+      <ymin>82</ymin>
+      <xmax>289</xmax>
+      <ymax>126</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\mouse\\06-26-13_868-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

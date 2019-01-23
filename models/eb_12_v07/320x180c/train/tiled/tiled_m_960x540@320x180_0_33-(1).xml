@@ -1,0 +1,20 @@
+<annotation>
+  <filename>tiled_m_960x540@320x180_0_33-(1).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>40</xmin>
+      <ymin>37</ymin>
+      <xmax>175</xmax>
+      <ymax>114</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\sparrow\\13-08-01_197-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

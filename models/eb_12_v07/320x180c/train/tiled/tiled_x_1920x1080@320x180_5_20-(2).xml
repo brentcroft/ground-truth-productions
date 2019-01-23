@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_5_20-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>199</xmin>
+      <ymin>20</ymin>
+      <xmax>239</xmax>
+      <ymax>59</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>210</xmin>
+      <ymin>86</ymin>
+      <xmax>278</xmax>
+      <ymax>125</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\04-08-53_582-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

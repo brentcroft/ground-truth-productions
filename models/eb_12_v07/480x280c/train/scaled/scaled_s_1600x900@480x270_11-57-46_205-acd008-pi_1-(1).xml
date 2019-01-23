@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_s_1600x900@480x270_11-57-46_205-acd008-pi_1-(1).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>127</xmin>
+      <ymin>57</ymin>
+      <xmax>201</xmax>
+      <ymax>100</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\blue tit\\11-57-46_205-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

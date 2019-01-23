@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_0_12-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>30</xmin>
+      <ymin>27</ymin>
+      <xmax>46</xmax>
+      <ymax>51</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>97</xmin>
+      <ymin>104</ymin>
+      <xmax>124</xmax>
+      <ymax>168</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>161</xmin>
+      <ymin>86</ymin>
+      <xmax>217</xmax>
+      <ymax>120</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\blue tit\\14-08-46_429-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

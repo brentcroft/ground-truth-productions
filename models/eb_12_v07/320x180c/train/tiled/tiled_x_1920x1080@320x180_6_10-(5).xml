@@ -1,0 +1,56 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_6_10-(5).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>18</xmin>
+      <ymin>20</ymin>
+      <xmax>39</xmax>
+      <ymax>68</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>22</xmin>
+      <ymin>92</ymin>
+      <xmax>35</xmax>
+      <ymax>117</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>64</ymin>
+      <xmax>163</xmax>
+      <ymax>105</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>131</ymin>
+      <xmax>146</xmax>
+      <ymax>170</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>250</xmin>
+      <ymin>122</ymin>
+      <xmax>298</xmax>
+      <ymax>174</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\goldfinch\\16-35-50_011-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

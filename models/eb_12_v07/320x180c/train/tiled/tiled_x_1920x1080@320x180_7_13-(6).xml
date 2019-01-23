@@ -1,0 +1,65 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_7_13-(6).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>63</xmin>
+      <ymin>20</ymin>
+      <xmax>80</xmax>
+      <ymax>45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>117</xmin>
+      <ymin>20</ymin>
+      <xmax>141</xmax>
+      <ymax>46</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>117</xmin>
+      <ymin>81</ymin>
+      <xmax>141</xmax>
+      <ymax>107</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>123</xmin>
+      <ymin>142</ymin>
+      <xmax>135</xmax>
+      <ymax>161</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>236</xmin>
+      <ymin>16</ymin>
+      <xmax>282</xmax>
+      <ymax>62</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>234</xmin>
+      <ymin>91</ymin>
+      <xmax>260</xmax>
+      <ymax>123</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\04-02-53_478-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

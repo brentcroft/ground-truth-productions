@@ -1,0 +1,15 @@
+index,edition,folder,filename,width,height,quality,untruth-count,item,class,xmin,ymin,xmax,ymax,score,aspect,quality.1,box-score,class-error,class-error-score
+4,_,blackbird,12-46-36_028-acd007-pi.jpg,1920,1072,ok,0.0,1,blackbird,163,588,603,760,0.9210360000000001,right,ok,100.0,,0.0
+16,_,blue tit,11-57-46_205-acd008-pi.jpg,1920,1080,ok,0.0,1,blue tit,422,191,669,335,0.9279786,rear,ok,79.0,,0.0
+21,_,collared dove,09-31-29_096-acd008-pi.jpg,1920,1072,,0.0,1,collared dove,485,797,1003,1004,0.952131,left,ok,98.0,wood pigeon(0.16),0.15692306
+24,_,dunnock,05-31-52_690-acd007-pi.jpg,1920,1080,ok,0.0,1,dunnock,934,293,1041,370,0.39308444,right,ok,75.0,,0.0
+37,_,goldfinch,16-31-53_544-acd008-pi.jpg,1920,1072,,0.0,1,goldfinch,592,738,721,1000,0.9196296,front left,ok,100.0,,0.0
+46,_,great tit,09-18-22_520-acd008-pi.jpg,1920,1072,ok,0.0,1,great tit,1387,772,1514,984,0.93877625,rear,ok,94.0,blue tit(0.10),0.10102187
+52,_,long tailed tit,12-08-11-acd004-pi.jpg,1920,1080,ok,0.0,1,long tailed tit,1287,404,1356,614,0.8040716,rear right,ok,97.0,mouse(0.11),0.10782677
+58,_,mouse,06-22-57_987-acd008-pi.jpg,1920,1072,ok,0.0,1,mouse,726,451,797,588,0.6628564,front left,ok,97.0,,0.0
+61,_,robin,04-20-48_087-acd008-pi.jpg,1920,1072,ok,0.0,1,robin,1095,79,1410,338,0.9165361999999999,left,ok,94.0,,0.0
+79,_,sparrow,13-25-26_271-acd008-pi.jpg,1920,1072,ok,0.0,1,sparrow,1027,870,1263,1010,0.61426264,right,ok,95.0,"dunnock(0.39), starling(0.18), long tailed tit(0.12), great tit(0.11), robin(0.10)",0.18082384700000004
+86,_,starling,05-49-37_323-acd008-pi.jpg,1920,1072,ok,0.0,1,starling,1491,249,1766,456,0.9370146,front right,ok,96.0,blackbird(0.12),0.11645272
+91,_,unclassified,03-15-33_386-acd007-pi.jpg,1920,1080,ok,0.0,1,unclassified,243,876,400,1013,0.0,,ok,0.0,,0.0
+139,_,wood pigeon,10-05-22_840-acd010-pi.jpg,1920,1080,ok,0.0,1,wood pigeon,779,803,1193,1013,0.9773221,left,ok,96.0,"blackbird(0.10), collared dove(0.10)",0.101110113
+87,_,starling,05-49-37_323-acd008-pi.jpg,1920,1072,ok,0.0,2,starling,1009,176,1139,408,0.9014688,front right,ok,96.0,blackbird(0.12),0.11645272

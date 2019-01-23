@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_m_960x540@320x180_04-54-01_780-acd008-pi_1-(1).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>185</xmin>
+      <ymin>58</ymin>
+      <xmax>243</xmax>
+      <ymax>136</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\starling\\04-54-01_780-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

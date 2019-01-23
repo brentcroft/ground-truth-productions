@@ -1,0 +1,20 @@
+<annotation>
+  <filename>tiled_m_960x540@480x270_0_4-(1).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>316</xmin>
+      <ymin>25</ymin>
+      <xmax>394</xmax>
+      <ymax>78</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\04-02-53_478-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

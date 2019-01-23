@@ -1,0 +1,56 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_3_24-(5).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>24</xmin>
+      <ymin>24</ymin>
+      <xmax>132</xmax>
+      <ymax>74</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>162</xmin>
+      <ymin>24</ymin>
+      <xmax>218</xmax>
+      <ymax>50</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>260</xmin>
+      <ymin>24</ymin>
+      <xmax>291</xmax>
+      <ymax>63</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>10</xmin>
+      <ymin>107</ymin>
+      <xmax>58</xmax>
+      <ymax>153</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>239</xmin>
+      <ymin>107</ymin>
+      <xmax>295</xmax>
+      <ymax>138</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\sparrow\\13-44-59_354-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

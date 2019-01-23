@@ -1,0 +1,20 @@
+<annotation>
+  <filename>tiled_m_960x540@320x180_1_5-(1).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>44</xmin>
+      <ymin>40</ymin>
+      <xmax>70</xmax>
+      <ymax>89</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\mouse\\06-24-43_211-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

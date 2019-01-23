@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_4_31-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>21</xmin>
+      <ymin>24</ymin>
+      <xmax>47</xmax>
+      <ymax>99</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>24</ymin>
+      <xmax>131</xmax>
+      <ymax>124</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\goldfinch\\14-57-48_102-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

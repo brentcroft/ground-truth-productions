@@ -1,0 +1,56 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_2_19-(5).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>12</xmin>
+      <ymin>27</ymin>
+      <xmax>63</xmax>
+      <ymax>82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>28</xmin>
+      <ymin>118</ymin>
+      <xmax>47</xmax>
+      <ymax>155</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>117</xmin>
+      <ymin>27</ymin>
+      <xmax>139</xmax>
+      <ymax>48</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>187</xmin>
+      <ymin>27</ymin>
+      <xmax>219</xmax>
+      <ymax>81</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>275</xmin>
+      <ymin>27</ymin>
+      <xmax>293</xmax>
+      <ymax>44</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\robin\\09-41-20_391-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

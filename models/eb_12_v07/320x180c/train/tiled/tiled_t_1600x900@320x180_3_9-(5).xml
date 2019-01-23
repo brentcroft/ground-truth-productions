@@ -1,0 +1,56 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_3_9-(5).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>13</xmin>
+      <ymin>24</ymin>
+      <xmax>55</xmax>
+      <ymax>78</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>16</xmin>
+      <ymin>109</ymin>
+      <xmax>52</xmax>
+      <ymax>157</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>105</xmin>
+      <ymin>24</ymin>
+      <xmax>121</xmax>
+      <ymax>39</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>170</xmin>
+      <ymin>24</ymin>
+      <xmax>188</xmax>
+      <ymax>47</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>233</xmin>
+      <ymin>24</ymin>
+      <xmax>260</xmax>
+      <ymax>71</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\dunnock\\11-12-47_901-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_1_30-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>7</xmin>
+      <ymin>24</ymin>
+      <xmax>61</xmax>
+      <ymax>95</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>215</xmin>
+      <ymin>10</ymin>
+      <xmax>277</xmax>
+      <ymax>50</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>191</xmin>
+      <ymin>100</ymin>
+      <xmax>216</xmax>
+      <ymax>157</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\blackbird\\13-37-21_702-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

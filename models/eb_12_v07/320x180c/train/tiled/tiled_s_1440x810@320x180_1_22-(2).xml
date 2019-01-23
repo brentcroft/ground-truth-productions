@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_1_22-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>27</ymin>
+      <xmax>57</xmax>
+      <ymax>79</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>176</xmin>
+      <ymin>27</ymin>
+      <xmax>231</xmax>
+      <ymax>72</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\starling\\04-54-01_780-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

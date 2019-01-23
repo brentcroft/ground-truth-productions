@@ -1,0 +1,20 @@
+<annotation>
+  <filename>tiled_m_960x540@320x180_0_85-(1).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>28</xmin>
+      <ymin>40</ymin>
+      <xmax>85</xmax>
+      <ymax>78</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\robin\\05-32-45_821-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>

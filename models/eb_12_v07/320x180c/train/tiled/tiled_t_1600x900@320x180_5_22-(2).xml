@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_5_22-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>176</xmin>
+      <ymin>24</ymin>
+      <xmax>254</xmax>
+      <ymax>54</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>258</xmin>
+      <ymin>97</ymin>
+      <xmax>282</xmax>
+      <ymax>127</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\06-25-14_388-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

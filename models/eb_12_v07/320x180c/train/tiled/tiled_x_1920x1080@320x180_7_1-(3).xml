@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_7_1-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>6</xmin>
+      <ymin>20</ymin>
+      <xmax>51</xmax>
+      <ymax>79</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>14</xmin>
+      <ymin>111</ymin>
+      <xmax>43</xmax>
+      <ymax>130</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>156</xmin>
+      <ymin>20</ymin>
+      <xmax>169</xmax>
+      <ymax>33</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\robin\\09-22-30_515-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

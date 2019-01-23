@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_2_2-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>20</xmin>
+      <ymin>24</ymin>
+      <xmax>48</xmax>
+      <ymax>71</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>150</xmin>
+      <ymin>24</ymin>
+      <xmax>187</xmax>
+      <ymax>51</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>158</xmin>
+      <ymin>95</ymin>
+      <xmax>239</xmax>
+      <ymax>131</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\mouse\\00-17-56_817-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

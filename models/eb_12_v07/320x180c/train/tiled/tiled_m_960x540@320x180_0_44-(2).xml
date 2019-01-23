@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_m_960x540@320x180_0_44-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>36</xmin>
+      <ymin>40</ymin>
+      <xmax>77</xmax>
+      <ymax>135</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>132</xmin>
+      <ymin>40</ymin>
+      <xmax>216</xmax>
+      <ymax>90</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\goldfinch\\16-35-50_011-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

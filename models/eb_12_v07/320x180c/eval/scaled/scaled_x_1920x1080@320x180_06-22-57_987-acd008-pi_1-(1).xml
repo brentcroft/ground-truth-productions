@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_x_1920x1080@320x180_06-22-57_987-acd008-pi_1-(1).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>121</xmin>
+      <ymin>76</ymin>
+      <xmax>133</xmax>
+      <ymax>99</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\mouse\\06-22-57_987-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

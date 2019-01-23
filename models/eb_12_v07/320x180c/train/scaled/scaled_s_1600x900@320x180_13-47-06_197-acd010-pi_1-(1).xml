@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_s_1600x900@320x180_13-47-06_197-acd010-pi_1-(1).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>129</xmin>
+      <ymin>60</ymin>
+      <xmax>199</xmax>
+      <ymax>112</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\collared dove\\13-47-06_197-acd010-pi.xml']</attribute>
+  </attributes>
+</annotation>

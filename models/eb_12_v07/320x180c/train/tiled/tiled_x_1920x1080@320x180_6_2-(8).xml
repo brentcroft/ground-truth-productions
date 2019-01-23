@@ -1,0 +1,83 @@
+<annotation>
+  <filename>tiled_x_1920x1080@320x180_6_2-(8).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>15</xmin>
+      <ymin>20</ymin>
+      <xmax>41</xmax>
+      <ymax>38</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>77</xmin>
+      <ymin>20</ymin>
+      <xmax>102</xmax>
+      <ymax>66</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>138</xmin>
+      <ymin>68</ymin>
+      <xmax>163</xmax>
+      <ymax>111</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>143</xmin>
+      <ymin>138</ymin>
+      <xmax>158</xmax>
+      <ymax>157</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>201</xmin>
+      <ymin>68</ymin>
+      <xmax>222</xmax>
+      <ymax>110</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>205</xmin>
+      <ymin>138</ymin>
+      <xmax>218</xmax>
+      <ymax>162</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>248</xmin>
+      <ymin>64</ymin>
+      <xmax>294</xmax>
+      <ymax>111</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>248</xmin>
+      <ymin>136</ymin>
+      <xmax>294</xmax>
+      <ymax>157</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\long tailed tit\\08-58-58-acd004-pi.xml']</attribute>
+  </attributes>
+</annotation>

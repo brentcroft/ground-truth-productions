@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_x_1920x1080@480x270_10-51-46_004-acd010-pi_1-(1).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>124</xmin>
+      <ymin>202</ymin>
+      <xmax>194</xmax>
+      <ymax>234</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\blackbird\\10-51-46_004-acd010-pi.xml']</attribute>
+  </attributes>
+</annotation>

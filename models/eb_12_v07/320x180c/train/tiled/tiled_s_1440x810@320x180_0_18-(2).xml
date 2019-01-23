@@ -1,0 +1,29 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_0_18-(2).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>24</xmin>
+      <ymin>27</ymin>
+      <xmax>52</xmax>
+      <ymax>110</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>194</xmin>
+      <ymin>91</ymin>
+      <xmax>226</xmax>
+      <ymax>125</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\goldfinch\\14-57-48_102-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

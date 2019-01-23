@@ -1,0 +1,56 @@
+<annotation>
+  <filename>tiled_s_1440x810@320x180_3_1-(5).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>30</xmin>
+      <ymin>27</ymin>
+      <xmax>46</xmax>
+      <ymax>57</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>30</xmin>
+      <ymin>106</ymin>
+      <xmax>46</xmax>
+      <ymax>153</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>99</xmin>
+      <ymin>27</ymin>
+      <xmax>197</xmax>
+      <ymax>65</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wood pigeon</name>
+    <bndbox>
+      <xmin>99</xmin>
+      <ymin>110</ymin>
+      <xmax>191</xmax>
+      <ymax>157</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>242</xmin>
+      <ymin>110</ymin>
+      <xmax>270</xmax>
+      <ymax>157</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\mouse\\06-22-57_987-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

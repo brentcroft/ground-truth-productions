@@ -1,0 +1,83 @@
+<annotation>
+  <filename>tiled_s_1600x900@480x270_0_5-(8).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>15</xmin>
+      <ymin>15</ymin>
+      <xmax>78</xmax>
+      <ymax>95</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>goldfinch</name>
+    <bndbox>
+      <xmin>12</xmin>
+      <ymin>125</ymin>
+      <xmax>49</xmax>
+      <ymax>211</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>102</xmin>
+      <ymin>77</ymin>
+      <xmax>145</xmax>
+      <ymax>123</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>170</xmin>
+      <ymin>81</ymin>
+      <xmax>215</xmax>
+      <ymax>164</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>181</xmin>
+      <ymin>194</ymin>
+      <xmax>204</xmax>
+      <ymax>238</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>306</xmin>
+      <ymin>15</ymin>
+      <xmax>392</xmax>
+      <ymax>108</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>361</xmin>
+      <ymin>212</ymin>
+      <xmax>399</xmax>
+      <ymax>262</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>428</xmin>
+      <ymin>212</ymin>
+      <xmax>459</xmax>
+      <ymax>257</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\dunnock\\11-12-47_901-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

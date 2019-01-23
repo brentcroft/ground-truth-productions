@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_3_3-(3).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>3</xmin>
+      <ymin>16</ymin>
+      <xmax>66</xmax>
+      <ymax>68</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>9</xmin>
+      <ymin>100</ymin>
+      <xmax>59</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>114</xmin>
+      <ymin>24</ymin>
+      <xmax>217</xmax>
+      <ymax>65</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\robin\\04-20-48_087-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

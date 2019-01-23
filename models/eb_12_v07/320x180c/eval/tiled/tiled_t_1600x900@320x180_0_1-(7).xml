@@ -1,0 +1,74 @@
+<annotation>
+  <filename>tiled_t_1600x900@320x180_0_1-(7).jpg</filename>
+  <size>
+    <width>320</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>21</xmin>
+      <ymin>24</ymin>
+      <xmax>47</xmax>
+      <ymax>70</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>21</xmin>
+      <ymin>105</ymin>
+      <xmax>47</xmax>
+      <ymax>148</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wood pigeon</name>
+    <bndbox>
+      <xmin>95</xmin>
+      <ymin>24</ymin>
+      <xmax>178</xmax>
+      <ymax>66</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>211</xmin>
+      <ymin>24</ymin>
+      <xmax>261</xmax>
+      <ymax>53</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>74</xmin>
+      <ymin>95</ymin>
+      <xmax>137</xmax>
+      <ymax>147</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>171</xmin>
+      <ymin>103</ymin>
+      <xmax>218</xmax>
+      <ymax>131</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dunnock</name>
+    <bndbox>
+      <xmin>266</xmin>
+      <ymin>103</ymin>
+      <xmax>287</xmax>
+      <ymax>118</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\starling\\05-49-37_323-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>
