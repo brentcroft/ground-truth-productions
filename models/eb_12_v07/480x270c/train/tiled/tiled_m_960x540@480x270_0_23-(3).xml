@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_m_960x540@480x270_0_23-(3).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blackbird</name>
+    <bndbox>
+      <xmin>25</xmin>
+      <ymin>25</ymin>
+      <xmax>150</xmax>
+      <ymax>93</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>25</xmin>
+      <ymin>134</ymin>
+      <xmax>134</xmax>
+      <ymax>230</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>310</xmin>
+      <ymin>25</ymin>
+      <xmax>450</xmax>
+      <ymax>166</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\blackbird\\11-36-54_403-acd010-pi.xml']</attribute>
+  </attributes>
+</annotation>

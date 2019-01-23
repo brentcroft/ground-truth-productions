@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_x_1920x1080@480x270_13-25-26_271-acd008-pi_1-(1).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>257</xmin>
+      <ymin>220</ymin>
+      <xmax>316</xmax>
+      <ymax>254</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\sparrow\\13-25-26_271-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

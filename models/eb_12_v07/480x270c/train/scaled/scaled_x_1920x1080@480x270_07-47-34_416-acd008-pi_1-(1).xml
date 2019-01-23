@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_x_1920x1080@480x270_07-47-34_416-acd008-pi_1-(1).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>wood pigeon</name>
+    <bndbox>
+      <xmin>315</xmin>
+      <ymin>100</ymin>
+      <xmax>382</xmax>
+      <ymax>165</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\wood pigeon\\07-47-34_416-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

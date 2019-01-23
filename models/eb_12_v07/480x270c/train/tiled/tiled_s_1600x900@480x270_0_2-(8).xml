@@ -1,0 +1,83 @@
+<annotation>
+  <filename>tiled_s_1600x900@480x270_0_2-(8).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>420</xmin>
+      <ymin>15</ymin>
+      <xmax>450</xmax>
+      <ymax>44</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>15</xmin>
+      <ymin>75</ymin>
+      <xmax>99</xmax>
+      <ymax>159</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>132</xmin>
+      <ymin>172</ymin>
+      <xmax>156</xmax>
+      <ymax>195</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>176</xmin>
+      <ymin>75</ymin>
+      <xmax>230</xmax>
+      <ymax>142</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>193</xmin>
+      <ymin>172</ymin>
+      <xmax>213</xmax>
+      <ymax>235</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>long tailed tit</name>
+    <bndbox>
+      <xmin>395</xmin>
+      <ymin>75</ymin>
+      <xmax>465</xmax>
+      <ymax>102</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>332</xmin>
+      <ymin>197</ymin>
+      <xmax>358</xmax>
+      <ymax>232</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>384</xmin>
+      <ymin>203</ymin>
+      <xmax>435</xmax>
+      <ymax>238</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\05-56-33_408-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

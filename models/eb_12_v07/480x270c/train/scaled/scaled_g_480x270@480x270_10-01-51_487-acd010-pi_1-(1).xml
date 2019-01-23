@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_g_480x270@480x270_10-01-51_487-acd010-pi_1-(1).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>blue tit</name>
+    <bndbox>
+      <xmin>216</xmin>
+      <ymin>58</ymin>
+      <xmax>305</xmax>
+      <ymax>172</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\robin\\10-01-51_487-acd010-pi.xml']</attribute>
+  </attributes>
+</annotation>

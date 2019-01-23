@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_m_960x540@480x270_0_31-(3).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>25</xmin>
+      <ymin>25</ymin>
+      <xmax>164</xmax>
+      <ymax>127</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sparrow</name>
+    <bndbox>
+      <xmin>25</xmin>
+      <ymin>177</ymin>
+      <xmax>143</xmax>
+      <ymax>247</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>196</xmin>
+      <ymin>25</ymin>
+      <xmax>281</xmax>
+      <ymax>126</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\great tit\\08-25-16_930-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

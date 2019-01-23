@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_s_1600x900@480x270_06-26-03_109-acd008-pi_1-(1).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>209</xmin>
+      <ymin>121</ymin>
+      <xmax>283</xmax>
+      <ymax>195</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\great tit\\06-26-03_109-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

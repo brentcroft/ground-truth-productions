@@ -1,0 +1,38 @@
+<annotation>
+  <filename>tiled_m_960x540@480x270_0_21-(3).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>113</xmin>
+      <ymin>128</ymin>
+      <xmax>184</xmax>
+      <ymax>206</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>starling</name>
+    <bndbox>
+      <xmin>344</xmin>
+      <ymin>25</ymin>
+      <xmax>426</xmax>
+      <ymax>114</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>great tit</name>
+    <bndbox>
+      <xmin>346</xmin>
+      <ymin>144</ymin>
+      <xmax>424</xmax>
+      <ymax>242</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\05-56-33_408-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

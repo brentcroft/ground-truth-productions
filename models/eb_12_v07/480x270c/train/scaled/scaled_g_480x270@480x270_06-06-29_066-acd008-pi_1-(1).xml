@@ -1,0 +1,20 @@
+<annotation>
+  <filename>scaled_g_480x270@480x270_06-06-29_066-acd008-pi_1-(1).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>robin</name>
+    <bndbox>
+      <xmin>217</xmin>
+      <ymin>32</ymin>
+      <xmax>303</xmax>
+      <ymax>198</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\robin\\06-06-29_066-acd008-pi.xml']</attribute>
+  </attributes>
+</annotation>

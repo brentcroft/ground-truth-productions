@@ -1,0 +1,20 @@
+<annotation>
+  <filename>tiled_s_1600x900@480x270_0_4-(1).jpg</filename>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>collared dove</name>
+    <bndbox>
+      <xmin>86</xmin>
+      <ymin>15</ymin>
+      <xmax>163</xmax>
+      <ymax>165</ymax>
+    </bndbox>
+  </object>
+  <attributes>
+    <attribute key="sources">['eb_12_v07\\unclassified\\04-02-53_478-acd007-pi.xml']</attribute>
+  </attributes>
+</annotation>
