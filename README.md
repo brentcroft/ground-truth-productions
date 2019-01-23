@@ -33,7 +33,7 @@ Given ground truth images at 1920x1080 and a desired output resolution of 480x27
 ![1920x1080@480x270](scaled_x_1920x1080@480x270_00-15-44_543-acd008-pi_1-(1).jpg)
 
 ## Tilings
-Given ground truth images at 1920x1080 and a desired output resolution of 480x270 then a sequence of tiling permutations can be constructed:
+Given ground truth images at 1920x1080 and a desired output resolution of 480x270 then a sequence of tiling permutations at various scales can be constructed:
 
 ![480x270@480x270](tiled_g_480x270@480x270_0_1-(2).jpg)
 
