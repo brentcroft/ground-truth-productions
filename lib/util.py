@@ -130,10 +130,16 @@ def draw_objects_on_image( image = None, objects = None, class_colors = None, li
         
         # note unusual order of co-ords
         vis_util.draw_bounding_box_on_image(
-            image, box[2], box[1], box[4], box[3],
-            color=class_color, thickness=line_thickness,
-            display_str_list=[ '{} {}%'.format( box[0], str( round( box[5] * 100 ) ) ) ],
-            use_normalized_coordinates=False ) 
+            image, 
+            box[2], 
+            box[1], 
+            box[4], 
+            box[3],
+            color=class_color, 
+            thickness=line_thickness,
+            display_str_list=display_str_list,
+            use_normalized_coordinates=False 
+        ) 
 """
 
 
